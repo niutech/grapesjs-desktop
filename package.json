@@ -1,0 +1,23 @@
+﻿{
+	"name": "grapesjs-desktop",
+	"version": "0.12.55",
+	"description": "GrapesJS desktop app based on NW.js",
+	"main": "index.html",
+	"window": {
+		"icon": "grapesjs.png",
+		"width": 1024,
+		"height": 600
+	},
+	"keywords": [
+		"grapesjs",
+		"web",
+		"editor",
+		"builder",
+		"wysiwyg",
+		"node-webkit"
+	],
+	"author": {
+		"name": "Jerzy Głowacki"
+	},
+	"license": "New BSD License"
+}
