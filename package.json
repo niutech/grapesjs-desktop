@@ -1,6 +1,6 @@
 ﻿{
 	"name": "grapesjs-desktop",
-	"version": "0.12.55",
+	"version": "0.14.6",
 	"description": "GrapesJS desktop app based on NW.js",
 	"main": "index.html",
 	"window": {
